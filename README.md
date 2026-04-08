@@ -7,3 +7,5 @@ The different KPIs are :
 ##### -Resolution SLA %
 ##### -MTTR
 ##### -CSI metrics
+
+<img width="927" height="637" alt="Screenshot -Incident Management KPI Dashboard" src="https://github.com/user-attachments/assets/f66fe9be-f239-4abc-84e5-0899302eebe6" />
