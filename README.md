@@ -1,7 +1,7 @@
 # Incident Management KPI Dashboard
 
 ## Purpose:
-This Dashboard showcase the KPI performance based on last 3 months data of incident management report from Service Now  (sample data)
+This Dashboard showcase the KPI performance based on last 3 months data of incident management report(sample data).
 The different KPIs are :
 ##### -Response SLA %
 ##### -Resolution SLA %
