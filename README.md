@@ -8,11 +8,17 @@ The dashboard evaluates the following:
 - Resolution SLA %
 - MTTR (Mean Time to Resolve)
 - CSI (Customer Satisfaction Index)
-##  Business Insights
+##  Insights
 - SLA compliance helps measure service effectiveness and adherence to targets  
 - MTTR highlights efficiency in incident resolution  
 - CSI reflects customer experience and service quality  
 - Combined KPI view enables proactive service improvement decisions
+##  Recommendations
+- Improve SLA monitoring and alerting  
+- Reduce MTTR via faster escalation and prioritization  
+- Automate repetitive incidents  
+- Strengthen knowledge base usage  
+- Track and fix recurring issues (RCA) 
 ## Tools & Technologies Used
 - Microsoft Power BI 
 - Data Modeling & Transformation  
