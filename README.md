@@ -1,5 +1,4 @@
 # Incident Management KPI Dashboard
-## About
 This project presents an **Incident Management KPI Dashboard** designed to evaluate IT service performance over the last 3 months using key operational metrics.
 ## Purpose
 The objective of this dashboard is to analyze and monitor Incident Management performance using sample incident data and identify service efficiency trends.
